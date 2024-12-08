@@ -1,0 +1,3 @@
+Goal of the quiz:
+1. locate all starbuck's store in Phuket (No. stores:5)
+2. Display on 3D map
